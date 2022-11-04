@@ -1,0 +1,3 @@
+table:
+  name: email_template
+  schema: public
